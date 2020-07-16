@@ -1,0 +1,1 @@
+export const path = `https://react.eogresources.com/graphql`
